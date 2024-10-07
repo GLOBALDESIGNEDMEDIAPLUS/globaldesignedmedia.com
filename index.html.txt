@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Designed Media Plus</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <img src="https://i.ibb.co/4gNhnY9/GDMP-Logo.png" alt="Global Designed Media Plus Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+
+        <!-- Search Bar Section -->
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+            <button type="submit">Search</button>
+        </div>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h1>Welcome to Global Designed Media Plus</h1>
+        <p>We Bring Your Creative Vision to Life. From eye-catching graphics to engaging multimedia content, we deliver
+            excellence in every pixel.</p>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <h2>About Global Designed Media Plus</h2>
+        <p>Global Designed Media Plus is a leading multimedia agency in Ghana, providing exceptional services in graphic
+            design, video editing, and multimedia solutions. We focus on delivering unique, high-quality content that
+            sets our clients apart from the competition.</p>
+        <p>Our team is passionate about helping businesses enhance their branding and communication with stunning
+            visuals and impactful media content.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Graphic Design: Innovative designs tailored to your brand.</li>
+            <li>Video Editing: Professional video content that tells your story.</li>
+            <li>Animation: Engaging motion graphics for your business.</li>
+            <li>Brand Identity: Build a recognizable and cohesive brand.</li>
+        </ul>
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+        <h2>Our Portfolio</h2>
+        <p>We take pride in our diverse portfolio, having worked with clients from various industries. Our portfolio
+            features projects in branding, motion graphics, video editing, and business profile creation. Take a look at
+            some of our successful collaborations and see why we are the go-to media agency for creative solutions.</p>
+    </section>
+
+    <!-- Blog Section -->
+    <section id="blog">
+        <h2>Latest News & Blog</h2>
+        <p>Stay updated with the latest trends in graphic design, video editing, and digital media. Our blog is your
+            source for insights, tips, and industry news that will help you stay ahead in the fast-paced world of
+            multimedia.</p>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials">
+        <h2>What Our Clients Say</h2>
+        <p>“Working with Global Designed Media Plus was a game-changer for our business. Their creativity and
+            professionalism exceeded our expectations!” – Client A</p>
+        <p>“Their ability to understand our vision and translate it into high-quality content is unmatched. We highly
+            recommend them!” – Client B</p>
+    </section>
+
+    <!-- Subscription Section -->
+    <section id="subscribe">
+        <h2>Subscribe to Our Newsletter</h2>
+        <p>Sign up for our newsletter to get the latest updates on our projects, services, and special offers. Don’t
+            miss out on tips and insights from the experts at Global Designed Media Plus.</p>
+        <form>
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>
+
+    <!-- Contact Us Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Got a project in mind? Let's bring your vision to life. Contact us today to discuss how we can collaborate on
+            your next creative endeavor.</p>
+        <form>
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-links">
+            <ul>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#privacy">Privacy Policy</a></li>
+                <li><a href="#careers">Careers</a></li>
+            </ul>
+        </div>
+        <p>&copy; 2024 Global Designed Media Plus. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
